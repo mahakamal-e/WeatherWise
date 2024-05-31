@@ -26,7 +26,7 @@ The project is structured into several modules:
 | `app.models`     | Database models defined using SQLAlchemy ORM.                                   |
 | `app.routes.blog`| Blueprint containing routes for blog-related functionalities.                  |
 | `app.routes.main`| Blueprint containing routes for the main functionalities of the application.   |
-
+| `app.app_setup`| Module responsible for creating and configuring the Flask application instance.   |
 ## Routes and Explanations
 The application has the following main routes and functionalities:
 
@@ -50,10 +50,8 @@ To run the WeatherWise application locally, follow these steps:
 2. Navigate to the project directory.
 3. Create a virtual environment and activate it.
 4. Install the required dependencies using `pip install -r requirements.txt`.
-5. Set up the database by running `python -m app.init_db`.
-6. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `api_key` in `main_bp.py` with your API key.
-7. Run the Flask application with `python run.py`.
-8. Access the application in your web browser at `http://localhost:5000/`.
+5. Run the Flask application with `python run.py`.
+6. Access the application in your web browser at `http://localhost:5000/`.
 
 ## Contributors
 - Maha Kamal
