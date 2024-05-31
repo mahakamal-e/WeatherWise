@@ -1,0 +1,68 @@
+.navbar {
+    background: #4a90e2;
+    padding: 0.8em 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px; /* Add padding to the left of the navbar */
+    padding-right: 20px; /* Add padding to the right of the navbar */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand .app-icon {
+    width: 40px;
+    height: 40px;
+    vertical-align: middle;
+    margin-right: 10px; /* Space between icon and text */
+}
+
+.navbar-brand .app-name {
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.navbar-menu {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar-menu ul li {
+    margin: 0 10px;
+}
+
+.navbar-menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0 15px; /* Add padding to the left and right of the text */
+}
+
+.header-content {
+    text-align: left;
+    padding: 50px 0;
+    background-image: url('../images/img3.avif');
+    background-size: cover;
+    padding-left: 90px;
+    
+    color: white;
+}
+
+.intro-text {
+    font-size: 18px; /* Change the font size to your desired value */
+}
+
+
+
+

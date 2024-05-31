@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}
+        <img src="{{ url_for('static', filename='images/icone2.png') }}" alt="Icon" style="vertical-align: middle;">
+        WeatherWise
+        {% endblock %}
+    </title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/common.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/header.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/footer.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/filter.css') }}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="icon" href="{{ url_for('static', filename='images/icone2.png') }}">
+    {% block styles %}{% endblock %}
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="navbar-brand">
+                <img src="{{ url_for('static', filename='images/icone2.png') }}" alt="App Icon" class="app-icon">
+                <span class="app-name">WeatherWise</span>
+            </div>
+            <div class="navbar-menu">
+                <ul>
+                    <li><a href="{{ url_for('main.index') }}">Home</a></li>
+                    <li><a href="{{ url_for('blog.blog') }}">Blog</a></li>
+                    <li><a href="{{ url_for('main.about') }}">About</a></li>
+                </ul>
+            </div>
+        </nav>
+        <div class="header-content">
+            <h1>WeatherWise</h1>
+            <p class="intro-text">Your gateway to precise forecasts, real-time updates, and <br> rich historical data, all presented with flair and sophistication.</p>
+        </div>
+    </header>
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 WeatherWise</p>
+            <div class="social-icons">
+                <a href="https://github.com/mahakamal-e/WeatherWise" target="_blank">
+                <img src="{{ url_for('static', filename='images/github-icon.png') }}" alt="GitHub">
+                </a>
+            </div>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
+</body>
+</html>
+
+
+
+
+

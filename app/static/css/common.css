@@ -1,0 +1,149 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background: #f4f7f6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.form-group {
+    display: flex;
+    align-items: center; /* Align items vertically center */
+}
+
+#cityInput {
+    flex: 1; /* Input field takes remaining space */
+    margin-right: 3px; /* Adjust margin between input field and buttons */
+}
+
+.btn {
+    padding: 10px 15px;
+    margin: 1px;
+    font-size: medium;
+    background: #4a90e2;
+    color: white;
+    cursor: pointer;
+}
+
+.btn-submit {
+    background: #434343;
+}
+
+.btn-location {
+    background: #434343;
+}
+
+/* Styling for the input element */
+#cityInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+#cityInput:focus {
+    border-color: #66afe9;
+    box-shadow: 0 0 5px rgba(102, 175, 233, 0.5);
+}
+
+/* Flexbox layout for weather container */
+.weather-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; /* Adjust space between weather info and map */
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.weather-info {
+    flex: 1; /* Weather info takes up remaining space */
+}
+
+.weather-map {
+    flex: 1; /* Map takes up remaining space */
+    height: 300x; /* Adjust height as needed */
+}
+
+
+
+/* Styles for the container of the content */
+.about-content {
+    max-width: 900px;
+    font-size: large;
+    margin: 0 auto; /* Center content horizontally */
+    text-align: left;
+    padding: 20px; /* Add padding for spacing */
+}
+
+/* Styles for the social links */
+.social-links {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove default padding */
+}
+
+.social-links li {
+    display: inline-block; /* Display list items horizontally */
+    margin-right: 10px; /* Add spacing between list items */
+    vertical-align: middle; /* Align icons vertically */
+}
+
+.social-links li:last-child {
+    margin-right: 0; /* Remove margin from last list item */
+}
+
+/* Styles for the social media icons */
+.social-links img {
+    width: 30px; /* Adjust the width of the icons */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle; /* Align icons vertically */
+}
+
+/* Styles for the sections and headings */
+.about-section h2 {
+    margin-bottom: 20px; /* Add space between section headings */
+}
+
+/* Styles for the unordered lists */
+.about-section ul {
+    
+    list-style-type: none; /* Remove default bullet points */
+    padding-left: 0; /* Remove default left padding */
+}
+
+.about-section ul li {
+    
+    margin-bottom: 10px; /* Add spacing between list items */
+    font-size: 16px; /* Adjust font size */
+    color: #333; /* Adjust text color */
+}
+
+/* Hover effect for list items */
+.about-section ul li:hover {
+    font-size: large;
+    color: #007bff; /* Change text color on hover */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+

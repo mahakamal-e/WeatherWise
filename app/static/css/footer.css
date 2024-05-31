@@ -1,0 +1,12 @@
+footer {
+    background: #7e7c7c;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.social-icons a img {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}

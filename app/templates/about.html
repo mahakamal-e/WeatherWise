@@ -1,0 +1,55 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+    About - WeatherWise
+{% endblock %}
+
+{% block content %}
+    <section class="about-section">
+        <div class="container about-content">
+            <h2>About WeatherWise</h2>
+            <p>Welcome to WeatherWise, your ultimate destination for accurate weather forecasts and insightful weather data analysis.</p>
+            <p>Our mission is to provide you with up-to-date weather information, including hourly forecasts and 5-day forecasts, ensuring that you are always prepared for whatever Mother Nature has in store.</p>
+            <p>With WeatherWise, you can explore weather trends, plan your activities, and stay informed about changing weather conditions.</p>
+            <p>Stay connected with us for the latest weather updates and expert analysis, and embark on your weather journey with confidence!</p>
+            
+            <br>
+            <h2>Features of WeatherWise</h2>
+            <ul>
+                <li>Hourly and 5-day weather forecasts</li>
+                <li>Insightful weather data analysis</li>
+                <li>Interactive weather maps</li>
+                <li>Travel Tips</li>
+                <li>Latest News</li>
+                <li>Weather Insights</li>
+            </ul>
+            <br>
+            <h2>About the Developer</h2>
+            <p>
+                My name is Maha Kamal, and I am the developer behind WeatherWise.<br>
+                I'm passionate about creating innovative solutions and providing valuable insights to users.
+            </p>
+            <p>
+                <br>
+                <h3>Connect with me on:</h3>
+            </p>
+            <ul class="social-links">
+                <li>
+                    <a href="https://www.linkedin.com/in/maha-kamal-25196b112/" target="_blank">
+                        <img src="{{ url_for('static', filename='images/linkedin-icon.png') }}" alt="LinkedIn Profile">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/mahakamal-e" target="_blank">
+                        <img src="{{ url_for('static', filename='images/github-icon.png') }}" alt="GitHub Profile">
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+{% endblock %}
+
+
+
+
+

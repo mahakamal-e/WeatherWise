@@ -1,0 +1,13 @@
+.article-content {
+    white-space: pre-wrap;
+    font-size: 18px; /* Increase the font size */
+    font-family: "Arial", sans-serif; /* Change the font family */
+}
+
+.styled-image {
+    float: right; /* Float the image to the right */
+    width: 450px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: 20px; /* Add some margin for separation */
+    /* Additional styling if needed */
+}
