@@ -1,5 +1,5 @@
 # ALX Portfolio Project - WeatherWise
-
+![Project Logo](https://github.com/mahakamal-e/WeatherWise/main/app/static/images/icone2.png)
 ## Introduction
 WeatherWise is a portfolio project developed as part of the ALX Software Engineering Program. It is a web application that provides users with current weather information and forecasts based on their location input or city name. The project utilizes Flask, SQLAlchemy, and the OpenWeatherMap API.
 
