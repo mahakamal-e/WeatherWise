@@ -54,4 +54,4 @@ To run the WeatherWise application locally, follow these steps:
 6. Access the application in your web browser at `http://localhost:5000/`.
 
 ## Contributors
-- Maha Kamal
+- [Maha Kamal](https://github.com/mahakamal-e)
