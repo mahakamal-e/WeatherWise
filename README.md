@@ -3,6 +3,8 @@
 ## Introduction
 WeatherWise is a portfolio project developed as part of the ALX Software Engineering Program. It is a web application that provides users with current weather information and forecasts based on their location input or city name. The project utilizes Flask, SQLAlchemy, and the OpenWeatherMap API.
 
+## Landing Page
+[](https://mahakamal-e.github.io/)
 ## Technologies Used
 The following technologies were used in building WeatherWise:
 
