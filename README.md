@@ -95,7 +95,7 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 
 ## Live Demo
 Watch a live demo of WeatherWise in action:
-![Watch the live demo of WeatherWise][(https://img.youtube.com/vi/0RSU9IcWSHo/0.jpg)](https://youtu.be/0RSU9IcWSHo)
+[![Watch the live demo of WeatherWise](https://img.youtube.com/vi/0RSU9IcWSHo/0.jpg)](https://youtu.be/0RSU9IcWSHo)
 
 
 
