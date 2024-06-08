@@ -96,6 +96,15 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 ## Live Demo
 Watch a live demo of WeatherWise in action:
 [![WeatherWise Demo](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/videos/newLivedemo.mov)
+
+## Project Story
+
+WeatherWise was born out of my passion for weather tracking and my desire to create a user-friendly application for accessing weather data. Inspired by the challenges of accurately predicting weather patterns, I developed a tool that simplifies obtaining weather information while providing valuable insights into current conditions and forecasts.
+
+In the development process, I faced numerous technical challenges, particularly in integrating with the OpenWeatherMap API and designing an intuitive user interface. However, with perseverance and problem-solving skills, I overcame these obstacles and successfully built WeatherWise from the ground up.
+
+Looking ahead, I plan to add more weather metrics and better data visualization to WeatherWise. By continually improving the app, I aim to make it an essential tool for users to stay informed about important weather conditions.
+
 ## Related Projects
 [OpenWeatherMap](https://openweathermap.org/) - OpenWeatherMap is a service that provides weather data, including current weather, forecasts, and historical data,
 to developers and businesses through an API.
