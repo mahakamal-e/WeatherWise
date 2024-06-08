@@ -81,7 +81,7 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 5. Submit a pull request to the main repository.
 
 ## Related Projects
-OpenWeatherMap - OpenWeatherMap is a service that provides weather data, including current weather, forecasts, and historical data,
+[OpenWeatherMap](https://openweathermap.org/) - OpenWeatherMap is a service that provides weather data, including current weather, forecasts, and historical data,
 to developers and businesses through an API.
 It offers a wide range of weather-related information that can be integrated into applications like WeatherWise to enhance their functionality.
 
