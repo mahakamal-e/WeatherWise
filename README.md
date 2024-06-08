@@ -4,7 +4,21 @@
 WeatherWise is a portfolio project developed as part of the ALX Software Engineering Program. It is a web application that provides users with current weather information and forecasts based on their location input or city name. The project utilizes Flask, SQLAlchemy, and the OpenWeatherMap API.
 
 ## Landing Page
-https://mahakamal-e.github.io
+
+**[Visit WeatherWise](https://mahakamal-e.github.io)**
+
+**[Final Project Blog Article](link_to_your_final_project_blog_article)**
+
+**Author:** [Maha Kamal]([author_link_to_LinkedIn](https://www.linkedin.com/in/maha-kamal-el/))
+
+## Usage
+
+WeatherWise offers a user-friendly interface for accessing weather information. Users can:
+
+- View current weather conditions
+- Check weather forecasts for the upcoming days
+- Search for weather data based on their location or city name
+
 ## Technologies Used
 The following technologies were used in building WeatherWise:
 
@@ -45,6 +59,7 @@ The application has the following main routes and functionalities:
 | `/`               | Main route that fetches current weather and forecast data based on user input.      |
 | `/about`          | Route to render the 'About' page.                                                  |
 
+
 ## How to Run Locally
 To run the WeatherWise application locally, follow these steps:
 
@@ -55,5 +70,22 @@ To run the WeatherWise application locally, follow these steps:
 5. Run the Flask application with `python run.py`.
 6. Access the application in your web browser at `http://localhost:5000/`.
 
-## Contributors
-- [Maha Kamal](https://github.com/mahakamal-e)
+## Contributing
+
+If you would like to contribute to WeatherWise, please follow these guidelines:
+
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
+
+## Related Projects
+OpenWeatherMap - OpenWeatherMap is a service that provides weather data, including current weather, forecasts, and historical data,
+to developers and businesses through an API.
+It offers a wide range of weather-related information that can be integrated into applications like WeatherWise to enhance their functionality.
+
+## Licensing
+MIT License
+
+Copyright (c) [2024] [WeatherWise]
