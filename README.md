@@ -94,7 +94,8 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 *Description: The blog section of WeatherWise provides users with a wealth of information and resources to enhance their weather-related knowledge and travel experiences.*
 
 ## Live Demo
-[![Video Title](https://img.youtube.com/vi/0RSU9IcWSHo/0.jpg)](https://youtu.be/0RSU9IcWSHo)
+Watch a live demo of WeatherWise in action:
+![Watch the live demo of WeatherWise][(https://img.youtube.com/vi/0RSU9IcWSHo/0.jpg)](https://youtu.be/0RSU9IcWSHo)
 
 
 
