@@ -94,7 +94,7 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 *Description: The blog section of WeatherWise provides users with a wealth of information and resources to enhance their weather-related knowledge and travel experiences.*
 
 ## Live Demo
-[Watch the live demo of WeatherWise](https://github.com/mahakamal-e/mahakamal-e.github.io/blob/main/videos/liveDemo.mov)
+[Watch the live demo of WeatherWise](https://github.com/mahakamal-e/mahakamal-e.github.io/raw/main/videos/liveDemo.mov)
 
 
 ## Project Story
