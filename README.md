@@ -81,6 +81,17 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 5. Submit a pull request to the main repository.
 
 ## Screenshots
+### Current Weather
+![Current Weather](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/images/current_weather.png)
+*Description: Display current weather conditions, including temperature, humidity, and wind speed, for a selected location.*
+
+### Forecast
+![Forecast](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/images/forecast.png)
+*Description: Forecast section showing the upcoming weather predictions for the next few days, helping users plan.*
+
+### Blog Section
+![Blog Section](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/images/blog_section.png)
+*Description: The blog section of WeatherWise provides users with a wealth of information and resources to enhance their weather-related knowledge and travel experiences.*
 
 ## Related Projects
 [OpenWeatherMap](https://openweathermap.org/) - OpenWeatherMap is a service that provides weather data, including current weather, forecasts, and historical data,
