@@ -93,6 +93,9 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 ![Blog Section](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/images/blog_section.png)
 *Description: The blog section of WeatherWise provides users with a wealth of information and resources to enhance their weather-related knowledge and travel experiences.*
 
+## Live Demo
+Watch a live demo of WeatherWise in action:
+[![WeatherWise Demo](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/videos/newLivedemo.mov)
 ## Related Projects
 [OpenWeatherMap](https://openweathermap.org/) - OpenWeatherMap is a service that provides weather data, including current weather, forecasts, and historical data,
 to developers and businesses through an API.
