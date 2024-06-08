@@ -95,7 +95,10 @@ If you would like to contribute to WeatherWise, please follow these guidelines:
 
 ## Live Demo
 Watch a live demo of WeatherWise in action:
-[![WeatherWise Demo](https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/videos/LiveDemo.mov)
+<video width="600" controls>
+  <source src="https://github.com/mahakamal-e/WeatherWise/raw/main/app/static/videos/LiveDemo.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Project Story
 
