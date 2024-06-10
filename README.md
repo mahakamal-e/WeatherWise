@@ -7,7 +7,7 @@ WeatherWise is a portfolio project developed in the ALX Software Engineering Pro
 
 **[Visit WeatherWise](https://mahakamal-e.github.io)**
 
-**[Final Project Blog Article](link_to_your_final_project_blog_article)**
+**[Final Project Blog Article](https://www.linkedin.com/pulse/building-weatherwise-journey-through-code-clouds-maha-kamal-s4j8f/?trackingId=gaLd47ZJwFT7ptp3GY2MnQ%3D%3D)**
 
 **Author:** [Maha Kamal]([author_link_to_LinkedIn](https://www.linkedin.com/in/maha-kamal-el/))
 
